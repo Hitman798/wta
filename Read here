@@ -9,4 +9,4 @@ a)HTML5
 b)CSS
 c)Javascript
 d)Angular
-
+All the front-end specific files are present in the directory named Public.The remaining directories hold backend-specific data.
